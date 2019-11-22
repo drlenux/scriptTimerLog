@@ -1,0 +1,22 @@
+{
+    "name": "drlenux/script-time-log",
+    "authors": [
+        {
+            "name": "drlenux",
+            "email": "drlenux@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "drlenux\\scriptTimerLog\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "test\\": "test/"
+        }
+    }
+}
