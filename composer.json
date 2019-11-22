@@ -6,6 +6,7 @@
             "email": "drlenux@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": "^7.1"
     },
